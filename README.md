@@ -1,5 +1,9 @@
 # Mining-opinion-on-COVID-19-based-on-Twitter-Data
 
+This project is aimed to analyze the sentiment of tweets that contain the word "vaccine" in two different ways and detect any possible misinformation inside them.
+
+First of all, all files and images mentioned below must be placed in the same folder for the notebooks to properly work. In the GitHub repository they are separated in different folders only for the purposes of clarification and order.
+
 This GitHub repository contains all the Jupyter Notebooks and any additional necessary files for this project to work. More specifically it contains:
 
 1) a folder named "Notebooks" containing the "Libraries", "Connecting", "Collecting", "Sentiment Analysis", "Sentiment Prediction" and "Fake News Detection" notebooks
@@ -7,10 +11,6 @@ This GitHub repository contains all the Jupyter Notebooks and any additional nec
 2) a folder named "Datasets" containing all the datasets used in the "Sentiment Analysis" and "Sentiment Prediction" notebooks as well as the 500000 tweets dataset, all in separate sub-folders
 
 3) a folder named "Images" containing three additional png images used in the "Sentiment Analysis" notebook
-
-First of all, all files and images mentioned above must be placed in the same folder for the notebooks to properly work. In the GitHub repository they are separated in different folders only for the purposes of clarification and order.
-
-This project is aimed to analyze the sentiment of tweets that contain the word "vaccine" in two different ways and detect any possible misinformation inside them.
 
 Here is a quick summary of the notebooks:
 
