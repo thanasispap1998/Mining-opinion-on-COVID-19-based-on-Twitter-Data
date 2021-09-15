@@ -1,6 +1,6 @@
 # Mining-opinion-on-COVID-19-based-on-Twitter-Data
 
-This project is aimed to analyze the sentiment of tweets that contain the word "vaccine" in two different ways and detect any possible misinformation inside them.
+This project is aimed to analyze the sentiment of tweets that contain the word "vaccine" in two different ways and detect any possible misinformation inside them. 
 
 First of all, all files mentioned below must be placed in the same folder for the notebooks to properly work. In the GitHub repository they are separated in different folders only for the purposes of clarification and order.
 
@@ -37,5 +37,8 @@ And here is a quick summary of the datasets:
 The main three notebooks of "Sentiment Analysis", "Sentiment Prediction" and "Fake News Detection" are, as described above, the core of all the project. They use a variety of graphs and algorithms for a lot of purposes but all these processes take time. In my own computer, which is heavily outdated, it took around ten hours for everything to fully be executed with a sample of 50000 tweets out of the original 500000. Smaller samples make the procedures faster and bigger ones not only slow it down but can even terminate the process due to ram limitations. 
 
 The most time consuming parts are the training of the algorithms or at least some of them, such as SVM. The same applies when the user wants to download new tweets. It is a slow and steady process and noone should expect thousands of tweets in mere minutes. Every notebook should be left to execute all cells and when it fully finishes to proceed to the next one, because "Sentiment Prediction" needs some information taken from "Sentiment Analysis" when it fully finishes the execution and "Fake News Detection" needs the same from "Sentiment Prediction", which means that not all three can run at the same time even if someone had a computer to do such a heavy task.
+
+The whole process for my computer lasted around 10 hours for me. My hardware consists of 8 gigabytes of ddr3 ram and the first generation of i7 processor. They are undoubtedly very old components that are operating really slow and can easily terminate the execution when they reach their limits. In a newer and faster computer with ddr4 ram of 8 or more gigabytes and a faster newer processor this project should be executed much faster and give the opportunity to the user to use more data in every process, such as more tweets to predict, more input data for the classification algorithms and different configurations for the algorithms that transform the texts into numerical arrays.  
+
 
 Feel free to experiment with any algorithm, any process or even use totally different datasets from what I used!
