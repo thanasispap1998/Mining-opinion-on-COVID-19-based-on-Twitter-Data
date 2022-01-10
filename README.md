@@ -12,6 +12,8 @@ This GitHub repository contains all the Jupyter Notebooks and any additional nec
 
 3) a folder named "Images" containing three additional png images used in the "Sentiment Analysis" notebook
 
+4) a folder named "Report" containing the report of this project
+
 Here is a quick summary of the notebooks:
 
 1) Libraries: Here we have all the imported libraries used in all the notebooks. This notebook is executed in every other notebook in order to not import again and again all the necessary libraries in each notebook. The user can change, add or delete any libraries in this notebook and this change will be transferred in all the notebooks.
