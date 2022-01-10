@@ -2,7 +2,7 @@
 
 This project is aimed to analyze the sentiment of tweets that contain the word "vaccine" in two different ways and detect any possible misinformation inside them. 
 
-First of all, all files mentioned below must be placed in the same folder for the notebooks to properly work. In the GitHub repository they are separated in different folders only for the purposes of clarification and order.
+First of all, all files mentioned below, except the report of course, must be placed in the same folder for the notebooks to properly work. In the GitHub repository they are separated in different folders only for the purposes of clarification and order.
 
 This GitHub repository contains all the Jupyter Notebooks and any additional necessary files for this project to work. More specifically it contains:
 
