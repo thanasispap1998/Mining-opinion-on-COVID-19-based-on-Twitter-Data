@@ -1,6 +1,6 @@
 # Mining-opinion-on-COVID-19-based-on-Twitter-Data
 
-This project is aimed to analyze the sentiment of tweets that contain the word "vaccine" in two different ways and detect any possible misinformation inside them. 
+This project aims to analyze the sentiment of tweets that contain the word "vaccine" in two different ways and detect any possible misinformation inside them. 
 
 First of all, all files mentioned below, except the report of course, must be placed in the same folder for the notebooks to properly work. In the GitHub repository they are separated in different folders only for the purposes of clarification and order.
 
